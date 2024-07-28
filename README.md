@@ -44,7 +44,7 @@ Include the JavaScript to handle the preloader:
 
 ## Demo
 
-![Demo](demo.gif)
+![Demo](https://raw.githubusercontent.com/amiayon8/Pure-HTML-Preloader/main/PRELOADER.gif)
 
 ## Support
 
