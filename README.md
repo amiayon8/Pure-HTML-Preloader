@@ -48,12 +48,8 @@ Include the JavaScript to handle the preloader:
 
 ## Support
 
-<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/muktaranikm "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muktaranikm " /></a></p><br><br>
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) for details.
-```
-
-Make sure to replace the placeholder links with the actual paths to your demo GIF, stylesheet, and script files.
+This project is licensed under the MIT License.
