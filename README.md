@@ -25,7 +25,7 @@ A responsive and attractive bicycle preloader built using HTML, CSS, and JavaScr
 
 Include the preloader in your HTML:
 ```html
-<div class="preloader">
+<div id="preloader">
     <!-- SVG and other markup here -->
 </div>
 ```
@@ -37,7 +37,9 @@ Add the CSS to your styles:
 
 Include the JavaScript to handle the preloader:
 ```html
-<script src="path/to/preloader.js"></script>
+<script>
+//our and your script
+</script>
 ```
 
 ## Demo
